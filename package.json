@@ -1,0 +1,12 @@
+{
+  "name": "@kenjiuno/iconvlite-wrapper-with-iso2022jp",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": "kenjiuno",
+  "license": "BSD-2-Clause",
+  "private": false,
+  "dependencies": {
+    "encoding-japanese": "^1.0.29",
+    "iconv-lite": "^0.4.24"
+  }
+}
